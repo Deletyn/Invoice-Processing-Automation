@@ -1,0 +1,15 @@
+
+#ignoring python cache files
+__pycache__/
+*.py[cod]
+
+#ignoring virtual environments
+.venv/
+venv/
+
+#ignoring generated invoice reports
+reports/*.csv
+
+#ignoring system files
+.DS_Store
+Thumbs.db

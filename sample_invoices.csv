@@ -1,0 +1,12 @@
+
+invoice_id,supplier,invoice_date,amount,status
+INV001,ABC Supplies,2026-11-01,1500.00,Unpaid
+INV002,Tech Solutions,2026-11-02,4500.00,Paid
+INV003,Office World,2026-11-03,850.00,Unpaid
+INV004,ABC Supplies,2026-11-01,1500.00,Unpaid
+INV005,Digital Systems,2026-11-04,25000.00,Unpaid
+INV006,,2026-11-05,1200.00,Unpaid
+INV007,Smart Office,2026-11-06,3200.00,Paid
+INV008,Tech Solutions,2026-11-07,-500.00,Unpaid
+INV009,Green Supplies,2026-11-08,950.00,Unpaid
+INV010,Future Tech,2026-11-09,12500.00,Unpaid
